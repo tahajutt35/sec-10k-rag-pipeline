@@ -1,0 +1,52 @@
+[
+  {
+    "query": "What was Apple's total net sales for iPhone in 2025 and 2024?",
+    "ground_truth": "iPhone net sales were $209,586 million in 2025 and $201,183 million in 2024.",
+    "expected_page": 26
+  },
+  {
+    "query": "What was Apple's total net sales for Services in 2025?",
+    "ground_truth": "Services net sales were $109,158 million in 2025.",
+    "expected_page": 26
+  },
+  {
+    "query": "How much did Apple spend on Research and Development (R&D) in 2025?",
+    "ground_truth": "Research and Development expense was $34,738 million in 2025.",
+    "expected_page": 32
+  },
+  {
+    "query": "What was the net sales revenue generated from Mac products in 2025?",
+    "ground_truth": "Mac net sales were $33,708 million in 2025.",
+    "expected_page": 39
+  },
+  {
+    "query": "What was Apple's total deferred revenue as of September 27, 2025?",
+    "ground_truth": "Total deferred revenue was $13.7 billion as of September 27, 2025.",
+    "expected_page": 39
+  },
+  {
+    "query": "What were the total products net sales in 2025?",
+    "ground_truth": "Products net sales were $307,003 million in 2025.",
+    "expected_page": 32
+  },
+  {
+    "query": "How much did Apple report for total cost of sales in 2025?",
+    "ground_truth": "Total cost of sales was $222,781 million in 2025.",
+    "expected_page": 32
+  },
+  {
+    "query": "What was Apple's total net sales in Greater China for 2025?",
+    "ground_truth": "Greater China net sales were $64,388 million in 2025.",
+    "expected_page": 39
+  },
+  {
+    "query": "What was the total operating income reported by Apple in 2025?",
+    "ground_truth": "Operating income was $129,292 million in 2025.",
+    "expected_page": 32
+  },
+  {
+    "query": "What was Apple's provision for income taxes in 2025?",
+    "ground_truth": "Provision for income taxes was $18,452 million in 2025.",
+    "expected_page": 32
+  }
+]
